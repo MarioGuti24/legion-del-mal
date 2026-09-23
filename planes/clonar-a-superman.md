@@ -61,6 +61,7 @@ Mystique es la mayor experta de la Legión en suplantación de identidad. Aunque
 4. **El clon podría volverse bueno.** Tiene el ADN de Superman. La bondad podría estar en sus genes.
 5. **Doctor Strange podría detectar la magia de Loki** en el implante de memorias.
 6. **Sin financiación definida** — depende del éxito de OBM-001 y PSC-002.
+7. 
 
 ## Contramedidas
 
