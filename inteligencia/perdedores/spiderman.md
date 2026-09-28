@@ -7,3 +7,6 @@ C
 
 ## Conocidos
 Estos son sus conocidos para añadir.
+
+## Peliculas
+- No way home
