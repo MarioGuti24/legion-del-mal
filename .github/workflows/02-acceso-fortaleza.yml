@@ -15,3 +15,20 @@ jobs:
           ls -la
           echo ""
           echo "pero que paso? no hay nada"
+      
+      - name : "Brainiac desbloquea la boveda"
+        uses : actions/checkout@v4
+
+      - name: "Ahora si vamos a ver los planes"
+        run: |
+          echo "Ahora si vamos a ver los planes"
+          ls -la
+          echo " Funciona"
+
+          echo "planes"
+          ls planes/
+          echo "Villanos:"
+          ls villanos/
+          echo "Inteligencia"
+          ls inteligencia/
+          
