@@ -3,7 +3,7 @@ name: Acceso a la fortaleza prohibida
 on: push
 
 jobs:
-  reporte-de-reclutamiento:
+  acceso-a-la-base:
     runs-on: ubuntu-latest
 
     steps:
