@@ -7,6 +7,22 @@ on:
   workflow_dispatch:
     inputs:
       villano:
+        desciption: " Nivel de prioridad"
+        required: true
+        type: choice
+        options:
+          - Normal
+          - Alta
+          - Critica
+
+    mensaje:
+      desciption: "Mensaje para el consejo"
+      required: true
+      default: "La mision fue un exito"
+          
+
+    inputs:
+      villano:
         desciption: " Que villano envia el mensaje?"
         required: true
         type: choice
