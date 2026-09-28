@@ -10,3 +10,6 @@ Estos son sus conocidos para añadir.
 
 ## Peliculas
 - No way home
+
+
+Ya esta toda la informacion completa de spiderman.
