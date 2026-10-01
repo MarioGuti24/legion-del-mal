@@ -10,7 +10,8 @@ on:
           #  │ │ │ │ │
     - cron: "0 8 * * *"  # Cada día a las 8:00 UTC
   workflow_dispatch: 
-  permissions:
+
+permissions:
   contents: write
 
 jobs:
