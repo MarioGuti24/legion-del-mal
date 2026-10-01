@@ -14,5 +14,5 @@ Estos son sus conocidos para añadir.
 
 Ya esta toda la informacion completa de spiderman.
 
-## Estrategias recomendadas
+## Estrategia recomendada
 mojar a la araña.
