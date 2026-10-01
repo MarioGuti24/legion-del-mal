@@ -16,6 +16,18 @@ on:
             - Darkseid
             - Sinestro
 
+        
+       cow_character:
+          description: " Personaje"
+          required: true
+          type: choice
+          options:
+            - eyes
+            - ghostbusters
+            - dragon
+            - fox
+            - king
+
 
        prioridad:
           description: " Nivel de prioridad"
